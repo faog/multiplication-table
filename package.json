@@ -1,6 +1,6 @@
 {
   "name": "multiplication-table",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Multiplication table with text file",
   "main": "app.js",
   "scripts": {
