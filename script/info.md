@@ -1,3 +1,3 @@
-## Información
+## Information
 
-Esta carpeta contiene el producto final de la aplicación.
+This folder contains the application final product.
